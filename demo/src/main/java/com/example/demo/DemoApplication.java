@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("This is the First Spring Project...");
 		System.out.println("Testing the first Spring Project");
+		System.out.println("This is the Updated Project");
 	
 	}
 
